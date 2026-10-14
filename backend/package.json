@@ -1,0 +1,9 @@
+{
+  "name": "odd-worlds-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"cors": "^2.8.5", "express": "^4.21.2", "mysql2": "^3.14.0"},
+  "engines": {"node": ">=20"}
+}
