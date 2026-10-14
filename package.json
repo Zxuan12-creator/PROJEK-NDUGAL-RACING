@@ -10,12 +10,12 @@
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",
-    "vite": "latest",
+    "lucide-react": "latest",
+    "mysql2": "^3.24.6",
     "react": "latest",
     "react-dom": "latest",
     "react-router-dom": "latest",
-    "lucide-react": "latest",
-    "three": "^0.180.0"
-  },
-  "devDependencies": {}
+    "three": "^0.180.0",
+    "vite": "latest"
+  }
 }
